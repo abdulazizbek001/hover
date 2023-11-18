@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+img{
+    display: inline-block;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+.btn{
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 10px 55px;
+    margin: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+.btn:hover{
+    background-color: red;
+}
+.bin{
+    border: none;
+    background-color: blue;
+    color: white;
+    margin: 30px;
+    padding: 10px 55px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+.bin:hover{
+    background-color: orange;
+}
+.ban{
+    border: none;
+    background-color: blue;
+    color: white;
+    margin: 30px;
+    padding: 10px 55px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+.ban:hover{
+    background-color: black;
+}
+.bun{
+    border: none;
+    background-color: blue;
+    color: white;
+    margin: 30px;
+    padding: 10px 55px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+.bun:hover{
+    background-color: aqua;
+}
+.ben{
+    border: none;
+    background-color: blue;
+    color: white;
+    margin: 30px;
+    padding: 10px 55px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+.ben:hover{
+    background-color: pink;
+}
+.bmn{
+    border: none;
+    background-color: blue;
+    color: white;
+    margin: 30px;
+    padding: 10px 55px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+.bmn:hover{
+    background-color: green;
+}
